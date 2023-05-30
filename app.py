@@ -8,7 +8,7 @@ css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "cv.pdf"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
-# --site settings
+# --site settings (https://digital-cv-marko-hentschel.onrender.com/)
 
 PAGE_TITLE = "Digital CV | Marko Hentschel"
 PAGE_ICON = ":page_facing_up:"
